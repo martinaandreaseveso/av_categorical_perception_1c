@@ -1,5 +1,11 @@
 # av_categorical_perception_1c
 
+**Contributors**
+Martina Andrea Seveso,
+Rebecca Hirst,
+Alan O'Dowd,
+Fiona N. Newell
+
 **Research aims**
 
 To verify the representativeness of sound of 3D objects categories.
